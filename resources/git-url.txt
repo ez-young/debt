@@ -1,2 +1,2 @@
 1.https://github.com/Rayhahah/EasySports
-2.
+2.https://github.com/paascloud/paascloud-master (采样demo)
